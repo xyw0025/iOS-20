@@ -1,0 +1,13 @@
+current directory: /Users/wen/CS/3-2/iOS/project/Lab:HW/Calculator/vendor/bundler/ruby/2.6.0/gems/json-2.3.0/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200516-31563-1hf7q8s.rb extconf.rb
+creating Makefile
+
+current directory: /Users/wen/CS/3-2/iOS/project/Lab:HW/Calculator/vendor/bundler/ruby/2.6.0/gems/json-2.3.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/wen/CS/3-2/iOS/project/Lab:HW/Calculator/vendor/bundler/ruby/2.6.0/gems/json-2.3.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/wen/CS/3-2/iOS/project/Lab:HW/Calculator/vendor/bundler/ruby/2.6.0/gems/json-2.3.0/ext/json
+make "DESTDIR=" install
